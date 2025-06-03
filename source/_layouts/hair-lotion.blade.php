@@ -6,12 +6,12 @@
     <link rel="canonical" href="{{ $page->getUrl() }}">
     <meta name="description" content="{{ $page->description }}">
     <title>@yield('site_title') - {{ $page->title }}</title>
-    <link rel="icon" type="image/png" href="/hair-lotion/favicon-96x96.png" sizes="96x96"/>
-    <link rel="icon" type="image/svg+xml" href="/hair-lotion/favicon.svg"/>
-    <link rel="shortcut icon" href="/hair-lotion/favicon.ico"/>
-    <link rel="apple-touch-icon" sizes="180x180" href="/hair-lotion/apple-touch-icon.png"/>
+    <link rel="icon" type="image/png" href="./hair-lotion/favicon-96x96.png" sizes="96x96"/>
+    <link rel="icon" type="image/svg+xml" href="./hair-lotion/favicon.svg"/>
+    <link rel="shortcut icon" href="./hair-lotion/favicon.ico"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="./hair-lotion/apple-touch-icon.png"/>
     <meta name="apple-mobile-web-app-title" content="Nuudo"/>
-    <link rel="manifest" href="/hair-lotion/site.webmanifest"/>
+    <link rel="manifest" href="./hair-lotion/site.webmanifest"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11.2.4/swiper-bundle.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.min.css">
     <link rel="stylesheet" href="../{{ mix('/css/main.css', 'assets/build') }}">
