@@ -1,4 +1,4 @@
-@extends('_layouts.master')
+@extends('_layouts.hair-lotion')
 
 @section('site_title', 'Hair Lotion')
 
