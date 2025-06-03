@@ -9,10 +9,12 @@
                 <div class="flex items-center gap-x-4 py-4 md:gap-x-8 md:py-8">
                     <div>
                         <img src="assets/images/logo-nuudo.png" alt="logo nuudo"
-                             class="h-auto max-w-full w-[120px] md:w-[240px]">
+                             class="h-auto max-w-full w-[120px] md:w-[240px]"
+                             data-aos="fade-right">
                     </div>
                     <div class="flex-grow">
-                        <h3 class="m-0 text-lg font-gotham-rounded md:text-3xl">
+                        <h3 class="m-0 text-lg font-gotham-rounded md:text-3xl" data-aos="fade-right"
+                            data-aos-delay="100">
                             Where Natural Goodness Meets Everyday Care
                         </h3>
                     </div>
@@ -30,7 +32,8 @@
         </div>
         <div class="absolute bottom-0 left-0 w-full text-center">
             <div class="container mx-auto px-4">
-                <h1 class="mb-4 text-3xl font-black text-stroke text-primary font-gotham-rounded md:text-7xl">
+                <h1 class="mb-4 text-3xl font-black text-stroke text-primary font-gotham-rounded md:text-7xl"
+                    data-aos="fade-up">
                     Nuudo Hair Lotion
                 </h1>
                 <div class="text-2xl font-bold text-body md:text-5xl">
@@ -43,7 +46,8 @@
     </section>
     <section class="mt-16">
         <div class="container mx-auto px-4">
-            <div class="mx-auto inline-block rounded-full p-8 text-center text-lg md:text-4xl font-bold text-white bg-primary">
+            <div class="mx-auto inline-block rounded-full p-8 text-center text-lg md:text-4xl font-bold text-white bg-primary"
+                 data-aos="fade-down">
                 Terbukti Membantu Menutrisi Pertumbuhan Rambut Si Kecil dan Menjadikannya Lebih Lembut
             </div>
             <div class="mt-8 text-center">
@@ -52,22 +56,26 @@
             </div>
             <div class="mt-8 grid grid-cols-1 gap-x-4 md:grid-cols-3 gap-y-4">
                 <div class="px-7 md:px-0">
-                    <img src="assets/images/segala-usia.png" alt="segala usia" class="h-auto w-full max-w-full">
+                    <img src="assets/images/segala-usia.png" alt="segala usia" class="h-auto w-full max-w-full"
+                         data-aos="fade-right">
                 </div>
                 <div>
                     <img src="assets/images/tanpa-paraben.png" alt="tanpa paraben dan alkohol"
-                         class="h-auto w-full max-w-full">
+                         class="h-auto w-full max-w-full"
+                         data-aos="fade-right" data-aos-delay="200">
                 </div>
                 <div class="px-7 md:px-0">
                     <img src="assets/images/rambut-kering-dan-basah.png" alt="untuk pemakaian rambut kering dan basah"
-                         class="h-auto w-full max-w-full">
+                         class="h-auto w-full max-w-full" data-aos="fade-right"
+                         data-aos-delay="400">
                 </div>
             </div>
         </div>
     </section>
     <section class="mt-16">
         <div class="container mx-auto px-4">
-            <h2 class="mx-auto text-center text-3xl font-bold max-w-[900px] text-primary md:text-5xl">
+            <h2 class="mx-auto text-center text-3xl font-bold max-w-[900px] text-primary md:text-5xl"
+                data-aos="fade-up">
                 Rasakan Kebaikan dari Alam untuk Rambut Sehat si Kecil
             </h2>
         </div>
@@ -99,7 +107,10 @@
         <div class="container mx-auto px-4">
             <h2 class="text-center text-3xl font-bold font-gotham-rounded md:text-5xl">
                 WHAT THEY SAY ABOUT
-                <span class="block text-primary">NUUDO HAIR LOTION</span>
+                <span class="block text-primary"
+                      data-aos="fade-down">
+                    NUUDO HAIR LOTION
+                </span>
             </h2>
         </div>
         <div class="py-20 swiper swiper--blur md:py-32" id="testimonial-swiper"
@@ -130,7 +141,8 @@
     </section>
     <section class="mt-16">
         <div class="container px-4 mx-auto">
-            <h3 class="text-center font-bold md:text-4xl text-2xl">
+            <h3 class="text-center font-bold md:text-4xl text-2xl"
+                data-aos="fade-down">
                 Nuudo accommodates the needs of all types of skin from normal, sensitive, dry to atopic
             </h3>
         </div>
@@ -285,8 +297,10 @@
         <img src="assets/images/banner-footer.jpeg" alt="collection of nuudo products"
              class="max-w-full h-auto w-full hidden md:block">
         <div class="absolute bottom-0 left-0 w-full text-center px-4">
-            <img src="assets/images/logo-nuudo@2x.png" alt="logo nuudo" class="mx-auto max-w-full h-auto w-[200px]">
-            <h5 class="font-bold font-gotham-rounded text-xl md:text-2xl mt-4">
+            <img src="assets/images/logo-nuudo@2x.png" alt="logo nuudo" class="mx-auto max-w-full h-auto w-[200px]"
+                 data-aos="fade-up">
+            <h5 class="font-bold font-gotham-rounded text-xl md:text-2xl mt-4"
+                data-aos="fade-up" data-aos-delay="100">
                 Where Natural Goodness<br>Meets Everyday Care
             </h5>
         </div>
@@ -296,19 +310,25 @@
             <div class="grid grid-cols-1 md:grid-cols-4 md:gap-x-8 gap-y-10">
                 <div>
                     <div class="flex items-center flex-col md:flex-row gap-y-4">
-                        <div class="font-gotham-book whitespace-nowrap">
+                        <div class="font-gotham-book whitespace-nowrap"
+                             data-aos="fade-left" data-aos-offset="-100">
                             FOLLOW US
                         </div>
                         <div class="md:ml-6 flex gap-x-4">
-                            <a href="https://www.instagram.com/nuudo.inc/" target="_blank">
+                            <a href="https://www.instagram.com/nuudo.inc/" target="_blank"
+                               data-aos="fade-left" data-aos-offset="-100" data-aos-delay="100">
                                 <img src="assets/images/icons/icon-instagram.png" alt="icon instagram"
                                      class="max-w-full h-auto w-6">
                             </a>
-                            <a href="https://www.tiktok.com/@nuudo.inc" target="_blank">
+                            <a href="https://www.tiktok.com/@nuudo.inc" target="_blank"
+                               data-aos="fade-left" data-aos-offset="-100"
+                               data-aos-delay="200">
                                 <img src="assets/images/icons/icon-tiktok.png" alt="icon tiktok"
                                      class="max-w-full h-auto w-6">
                             </a>
-                            <a href="https://www.youtube.com/@Nuudo-inc" target="_blank">
+                            <a href="https://www.youtube.com/@Nuudo-inc" target="_blank"
+                               data-aos="fade-left" data-aos-offset="-100"
+                               data-aos-delay="300">
                                 <img src="assets/images/icons/icon-youtube.png" alt="icon youtube"
                                      class="max-w-full h-auto w-6">
                             </a>
@@ -317,15 +337,19 @@
                 </div>
                 <div>
                     <div class="flex items-center flex-col md:flex-row gap-y-4">
-                        <div class="font-gotham-book whitespace-nowrap">
+                        <div class="font-gotham-book whitespace-nowrap"
+                             data-aos="fade-left" data-aos-offset="-100" data-aos-delay="500">
                             FIND US
                         </div>
                         <div class="md:ml-6 flex gap-x-4">
-                            <a href="https://www.tokopedia.com/incbrands" target="_blankc">
+                            <a href="https://www.tokopedia.com/incbrands" target="_blankc"
+                               data-aos="fade-left" data-aos-offset="-100"
+                               data-aos-delay="600">
                                 <img src="assets/images/icons/icon-tokopedia.png" alt="icon tokopedia"
                                      class="max-w-full h-auto w-6">
                             </a>
-                            <a href="https://shopee.co.id/inc.brands" target="_blank">
+                            <a href="https://shopee.co.id/inc.brands" target="_blank"
+                               data-aos="fade-left" data-aos-offset="-100" data-aos-delay="700">
                                 <img src="assets/images/icons/icon-shopee.png" alt="icon shopee"
                                      class="max-w-full h-auto w-6">
                             </a>
