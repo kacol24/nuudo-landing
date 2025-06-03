@@ -2,5 +2,5 @@
 
 return [
     'production' => true,
-    'baseUrl' => 'https://babygoinc.com/babygo/',
+    'baseUrl' => 'https://nuudo.id/nuudo/',
 ];
