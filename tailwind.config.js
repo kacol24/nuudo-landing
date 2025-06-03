@@ -11,7 +11,7 @@ module.exports = {
     extend: {
       colors: {
         primary: '#ff8900',
-        primaryAlt: '#a5d0f2'
+        primaryAlt: '#a5d0f2',
       },
       textColor: {
         body: '#707579'

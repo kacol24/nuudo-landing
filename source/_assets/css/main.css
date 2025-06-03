@@ -111,6 +111,13 @@
 :root {
     --bbg-primary: #ff8900;
     --bbg-text-color: #445058;
+    --color-primary: #a2d7f4;
+    --color-nuudo-primary: #f7931e;
+    --color-body: #707579;
+}
+
+.swiper {
+    --swiper-theme-color: var(--color-primary);
 }
 
 .swiper-pagination-bullet {
